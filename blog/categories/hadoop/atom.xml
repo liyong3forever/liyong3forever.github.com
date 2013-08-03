@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: hadoop | 研究研究]]></title>
-  <link href="http://www.yanjiuyanjiu.com/blog/categories/hadoop/atom.xml" rel="self"/>
-  <link href="http://www.yanjiuyanjiu.com/"/>
-  <updated>2013-07-23T23:00:58+08:00</updated>
-  <id>http://www.yanjiuyanjiu.com/</id>
+  <title><![CDATA[Category: hadoop | foreverLee]]></title>
+  <link href="http://www.foreverlee.net/blog/categories/hadoop/atom.xml" rel="self"/>
+  <link href="http://www.foreverlee.net/"/>
+  <updated>2013-08-03T22:45:27+08:00</updated>
+  <id>http://www.foreverlee.net/</id>
   <author>
     <name><![CDATA[soulmachine]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[在CentOS上安装Hadoop]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130612"/>
+    <link href="http://www.foreverlee.net/blog/20130612"/>
     <updated>2013-06-12T12:39:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/hadoop-installatioin-on-centos</id>
+    <id>http://www.foreverlee.net/blog/hadoop-installatioin-on-centos</id>
     <content type="html"><![CDATA[<p>Ubuntu上安装，请参考我的另一篇博客，<a href="http://www.yanjiuyanjiu.com/blog/20120103/">在Ubuntu上安装Hadoop</a>。</p>
 
 <p><strong>环境</strong>：CentOS 6.4, JDK 1.7, Hadoop 1.1.2</p>
@@ -422,9 +422,9 @@ $ bin/hadoop fs -cat output/part-r-00000
   
   <entry>
     <title type="html"><![CDATA[在Ubuntu上安装Hadoop]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20120103"/>
+    <link href="http://www.foreverlee.net/blog/20120103"/>
     <updated>2012-01-03T18:54:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/hadoop-installation-on-ubuntu</id>
+    <id>http://www.foreverlee.net/blog/hadoop-installation-on-ubuntu</id>
     <content type="html"><![CDATA[<p>本文所使用的版本是 hadoop 1.0.0，即 <a href="http://www.iteye.com/news/23874">2011年12月27日发布的1.0正式版</a>。</p>
 
 <p>详细安装步骤如下，有大步骤，每个步骤里面有小步骤，绝大部分是必选，只有2步是可选的，粗体表示要特别注意的地方。</p>

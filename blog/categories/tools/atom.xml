@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: tools | 研究研究]]></title>
-  <link href="http://www.yanjiuyanjiu.com/blog/categories/tools/atom.xml" rel="self"/>
-  <link href="http://www.yanjiuyanjiu.com/"/>
-  <updated>2013-07-23T23:00:58+08:00</updated>
-  <id>http://www.yanjiuyanjiu.com/</id>
+  <title><![CDATA[Category: tools | foreverLee]]></title>
+  <link href="http://www.foreverlee.net/blog/categories/tools/atom.xml" rel="self"/>
+  <link href="http://www.foreverlee.net/"/>
+  <updated>2013-08-03T22:45:27+08:00</updated>
+  <id>http://www.foreverlee.net/</id>
   <author>
     <name><![CDATA[soulmachine]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[LaTeX的各种发行版和编辑器的比较]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130412"/>
+    <link href="http://www.foreverlee.net/blog/20130412"/>
     <updated>2013-04-12T11:01:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/latex-distributions-and-editors</id>
+    <id>http://www.foreverlee.net/blog/latex-distributions-and-editors</id>
     <content type="html"><![CDATA[<h2 id="distribution">发行版(distribution)</h2>
 <p>TeX类似于Linux，有很多不同的发行版(distribution)。</p>
 
@@ -357,9 +357,9 @@ LyX可以导入.tex文件，导入后，不能直接修改.tex源码，只能在
   
   <entry>
     <title type="html"><![CDATA[我的Octopress配置]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130402"/>
+    <link href="http://www.foreverlee.net/blog/20130402"/>
     <updated>2013-04-02T15:35:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/my-octopress-configuration</id>
+    <id>http://www.foreverlee.net/blog/my-octopress-configuration</id>
     <content type="html"><![CDATA[<h2 id="section">实时预览</h2>
 <p>使用如下命令可以实现实时预览：</p>
 
@@ -524,7 +524,7 @@ rake new_page[about]
     &lt;a class="addthis_button_reddit"&gt;&lt;/a&gt;
     &lt;a class="addthis_button_compact"&gt;&lt;/a&gt;&lt;a class="addthis_counter addthis_bubble_style"&gt;&lt;/a&gt;
   &lt;/div&gt;
-  &lt;script type="text/javascript" src="http://www.yanjiuyanjiu.com//s7.addthis.com/js/300/addthis_widget.js#pubid=undefined"&gt;&lt;/script&gt;
+  &lt;script type="text/javascript" src="http://www.foreverlee.net//s7.addthis.com/js/300/addthis_widget.js#pubid=undefined"&gt;&lt;/script&gt;
   &lt;!-- AddThis Button END --&gt;
 </code></p>
 
@@ -652,9 +652,9 @@ $header-subtitle-font-family: arial, sans-serif;
   
   <entry>
     <title type="html"><![CDATA[使用github + Octopress 搭建免费博客]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130401"/>
+    <link href="http://www.foreverlee.net/blog/20130401"/>
     <updated>2013-04-01T15:14:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/using-github-and-octoperss-to-create-a-free-blog</id>
+    <id>http://www.foreverlee.net/blog/using-github-and-octoperss-to-create-a-free-blog</id>
     <content type="html"><![CDATA[<h3 id="section">前提条件</h3>
 <p>注册一个github账号。</p>
 
@@ -868,9 +868,9 @@ www	CNAME	默认	soulmachine.github.com.		-	600
   
   <entry>
     <title type="html"><![CDATA[用VisualVM连接 tomcat 服务器时，如何配置tomcat启动JMX]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20120811"/>
+    <link href="http://www.foreverlee.net/blog/20120811"/>
     <updated>2012-08-11T21:37:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/configure-tomcat-jmx-to-allow-visualvm-connect-tomcat</id>
+    <id>http://www.foreverlee.net/blog/configure-tomcat-jmx-to-allow-visualvm-connect-tomcat</id>
     <content type="html"><![CDATA[<p>用VisualVM连接 tomcat 服务器时，需要让tomcat启动JMX，在catalina.sh 中添加一行代码即可：</p>
 
 <p><code>bash
@@ -886,9 +886,9 @@ JAVA_OPTS=”$JAVA_OPTS -Djava.rmi.server.hostname=192.168.0.123 -Dcom.sun.manag
   
   <entry>
     <title type="html"><![CDATA[安装和配置CentOS服务器的详细步骤]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20120423"/>
+    <link href="http://www.foreverlee.net/blog/20120423"/>
     <updated>2012-04-23T20:43:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/install-and-configure-a-centos-server-from-scratch</id>
+    <id>http://www.foreverlee.net/blog/install-and-configure-a-centos-server-from-scratch</id>
     <content type="html"><![CDATA[<p>这是我安装CentOS服务器的过程，记录下来，与大家一起分享。</p>
 
 <h2 id="section">安装操作系统</h2>

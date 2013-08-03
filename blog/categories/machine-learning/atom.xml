@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: machine-learning | 研究研究]]></title>
-  <link href="http://www.yanjiuyanjiu.com/blog/categories/machine-learning/atom.xml" rel="self"/>
-  <link href="http://www.yanjiuyanjiu.com/"/>
-  <updated>2013-07-23T23:00:58+08:00</updated>
-  <id>http://www.yanjiuyanjiu.com/</id>
+  <title><![CDATA[Category: machine-learning | foreverLee]]></title>
+  <link href="http://www.foreverlee.net/blog/categories/machine-learning/atom.xml" rel="self"/>
+  <link href="http://www.foreverlee.net/"/>
+  <updated>2013-08-03T22:45:27+08:00</updated>
+  <id>http://www.foreverlee.net/</id>
   <author>
     <name><![CDATA[soulmachine]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[机器学习的一些通俗易懂的tutorial]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130327"/>
+    <link href="http://www.foreverlee.net/blog/20130327"/>
     <updated>2013-03-27T21:50:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/some-classical-machine-learning-tutorials</id>
+    <id>http://www.foreverlee.net/blog/some-classical-machine-learning-tutorials</id>
     <content type="html"><![CDATA[<p>以下记录了我的学习历程，按我的阅读顺序排序。</p>
 
 <h2 id="section">距离和相似度度量</h2>
@@ -65,9 +65,9 @@
   
   <entry>
     <title type="html"><![CDATA[数值计算库与科学计算库]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130226"/>
+    <link href="http://www.foreverlee.net/blog/20130226"/>
     <updated>2013-02-26T23:15:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/numerical-or-scientific-computation-library</id>
+    <id>http://www.foreverlee.net/blog/numerical-or-scientific-computation-library</id>
     <content type="html"><![CDATA[<h2 id="blas-">BLAS 接口</h2>
 <p><a href="http://www.netlib.org/blas/">BLAS</a>, <a href="http://www.netlib.org/lapack/">LAPACK</a>, <a href="http://math-atlas.sourceforge.net/">ATLAS</a> 这些数值计算库的名字很类似，他们之间有什么关系呢？BLAS是一组线性代数运算接口，目前是事实上的标准，很多数值计算/科学计算都实现了这套接口。</p>
 
@@ -162,9 +162,9 @@
   
   <entry>
     <title type="html"><![CDATA[KNN与K-Means的区别]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130225"/>
+    <link href="http://www.foreverlee.net/blog/20130225"/>
     <updated>2013-02-25T23:41:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/differences-between-knn-and-kmeans</id>
+    <id>http://www.foreverlee.net/blog/differences-between-knn-and-kmeans</id>
     <content type="html"><![CDATA[<h2 id="knnk-nearest-neighbor">KNN(K-Nearest Neighbor)介绍</h2>
 <p>Wikipedia上的<a href="http://en.wikipedia.org/wiki/K-nearest_neighbor_algorithm">KNN词条</a>中有一个比较经典的图如下：</p>
 
@@ -253,9 +253,9 @@
   
   <entry>
     <title type="html"><![CDATA[基于朴素贝叶斯的文本分类算法]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20100528"/>
+    <link href="http://www.foreverlee.net/blog/20100528"/>
     <updated>2010-05-28T17:15:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/text-classification-algorithm-based-on-naive-bayes</id>
+    <id>http://www.foreverlee.net/blog/text-classification-algorithm-based-on-naive-bayes</id>
     <content type="html"><![CDATA[<p>作者: 灵魂机器<br />
 新浪博客：<a href="www.weibo.com/soulmachine">www.weibo.com/soulmachine</a><br />
 作者博客：<a href="www.yanjiuyanjiu.com">www.yanjiuyanjiu.com</a></p>

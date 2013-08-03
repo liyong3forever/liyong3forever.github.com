@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[研究研究]]></title>
-  <link href="http://www.yanjiuyanjiu.com/atom.xml" rel="self"/>
-  <link href="http://www.yanjiuyanjiu.com/"/>
-  <updated>2013-07-23T23:00:58+08:00</updated>
-  <id>http://www.yanjiuyanjiu.com/</id>
+  <title><![CDATA[foreverLee]]></title>
+  <link href="http://www.foreverlee.net/atom.xml" rel="self"/>
+  <link href="http://www.foreverlee.net/"/>
+  <updated>2013-08-03T22:45:27+08:00</updated>
+  <id>http://www.foreverlee.net/</id>
   <author>
     <name><![CDATA[soulmachine]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[安装Spark集群(在CentOS上)]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130617"/>
+    <link href="http://www.foreverlee.net/blog/20130617"/>
     <updated>2013-06-17T22:16:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/installing-spark-on-centos-cn</id>
+    <id>http://www.foreverlee.net/blog/installing-spark-on-centos-cn</id>
     <content type="html"><![CDATA[<p><strong>环境</strong>:CentOS 6.4, Hadoop 1.1.2, JDK 1.7, Spark 0.7.2, Scala 2.9.3</p>
 
 <p>折腾了几天，终于把Spark 集群安装成功了，其实比hadoop要简单很多，由于网上搜索到的博客大部分都还停留在需要依赖mesos的版本，走了不少弯路。</p>
@@ -232,9 +232,9 @@ $ bin/stop-all.sh
   
   <entry>
     <title type="html"><![CDATA[Installing Spark on CentOS]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130614"/>
+    <link href="http://www.foreverlee.net/blog/20130614"/>
     <updated>2013-06-14T19:06:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/installing-spark-on-centos</id>
+    <id>http://www.foreverlee.net/blog/installing-spark-on-centos</id>
     <content type="html"><![CDATA[<p><strong>Environment</strong>:CentOS 6.4, Hadoop 1.1.2, JDK 1.7, Spark 0.7.2, Scala 2.9.3</p>
 
 <p>After a few days hacking , I have found that installing a Spark cluster is exteremely easy :)</p>
@@ -448,9 +448,9 @@ $ bin/stop-all.sh
   
   <entry>
     <title type="html"><![CDATA[在CentOS上安装Hadoop]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130612"/>
+    <link href="http://www.foreverlee.net/blog/20130612"/>
     <updated>2013-06-12T12:39:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/hadoop-installatioin-on-centos</id>
+    <id>http://www.foreverlee.net/blog/hadoop-installatioin-on-centos</id>
     <content type="html"><![CDATA[<p>Ubuntu上安装，请参考我的另一篇博客，<a href="http://www.yanjiuyanjiu.com/blog/20120103/">在Ubuntu上安装Hadoop</a>。</p>
 
 <p><strong>环境</strong>：CentOS 6.4, JDK 1.7, Hadoop 1.1.2</p>
@@ -855,9 +855,9 @@ $ bin/hadoop fs -cat output/part-r-00000
   
   <entry>
     <title type="html"><![CDATA[使用Scala IDE 阅读spark源码 -- 将sbt项目转化为eclipse项目]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130611"/>
+    <link href="http://www.foreverlee.net/blog/20130611"/>
     <updated>2013-06-11T11:48:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/read-spark-source-code-using-scala-ide</id>
+    <id>http://www.foreverlee.net/blog/read-spark-source-code-using-scala-ide</id>
     <content type="html"><![CDATA[<p>阅读Spark源代码，最简单的方式是下载源码包，解压后用纯文本方式来阅读源码。这样效率不高，可以用sbteclipse这个插件，将sbt项目文件转化为eclipse项目文件，然后导入到Scala IDE，用eclipse来阅读源码，效率大大提高。</p>
 
 <p><strong>环境</strong>：Windows 7, JDK 1.6</p>
@@ -945,9 +945,9 @@ Linux下可以省略以上两步，spark源码自带了一个sbt，且启动sbt�
   
   <entry>
     <title type="html"><![CDATA[LaTeX的各种发行版和编辑器的比较]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130412"/>
+    <link href="http://www.foreverlee.net/blog/20130412"/>
     <updated>2013-04-12T11:01:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/latex-distributions-and-editors</id>
+    <id>http://www.foreverlee.net/blog/latex-distributions-and-editors</id>
     <content type="html"><![CDATA[<h2 id="distribution">发行版(distribution)</h2>
 <p>TeX类似于Linux，有很多不同的发行版(distribution)。</p>
 
@@ -1287,9 +1287,9 @@ LyX可以导入.tex文件，导入后，不能直接修改.tex源码，只能在
   
   <entry>
     <title type="html"><![CDATA[我的Octopress配置]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130402"/>
+    <link href="http://www.foreverlee.net/blog/20130402"/>
     <updated>2013-04-02T15:35:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/my-octopress-configuration</id>
+    <id>http://www.foreverlee.net/blog/my-octopress-configuration</id>
     <content type="html"><![CDATA[<h2 id="section">实时预览</h2>
 <p>使用如下命令可以实现实时预览：</p>
 
@@ -1660,9 +1660,9 @@ LyX可以导入.tex文件，导入后，不能直接修改.tex源码，只能在
   
   <entry>
     <title type="html"><![CDATA[使用github + Octopress 搭建免费博客]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130401"/>
+    <link href="http://www.foreverlee.net/blog/20130401"/>
     <updated>2013-04-01T15:14:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/using-github-and-octoperss-to-create-a-free-blog</id>
+    <id>http://www.foreverlee.net/blog/using-github-and-octoperss-to-create-a-free-blog</id>
     <content type="html"><![CDATA[<h3 id="section">前提条件</h3>
 <p>注册一个github账号。</p>
 
@@ -1891,9 +1891,9 @@ Windows预设是Big5编码,所以要想’rake generate’的时候不报编码�
   
   <entry>
     <title type="html"><![CDATA[机器学习的一些通俗易懂的tutorial]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130327"/>
+    <link href="http://www.foreverlee.net/blog/20130327"/>
     <updated>2013-03-27T21:50:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/some-classical-machine-learning-tutorials</id>
+    <id>http://www.foreverlee.net/blog/some-classical-machine-learning-tutorials</id>
     <content type="html"><![CDATA[<p>以下记录了我的学习历程，按我的阅读顺序排序。</p>
 
 <h2 id="section">距离和相似度度量</h2>
@@ -1941,9 +1941,9 @@ Windows预设是Big5编码,所以要想’rake generate’的时候不报编码�
   
   <entry>
     <title type="html"><![CDATA[一些主流的编程竞赛网站]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130322"/>
+    <link href="http://www.foreverlee.net/blog/20130322"/>
     <updated>2013-03-22T21:57:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/some-popular-programming-contest-websites</id>
+    <id>http://www.foreverlee.net/blog/some-popular-programming-contest-websites</id>
     <content type="html"><![CDATA[<p>今天把各个主流的编程网站仔细对比了一下，下面从各个角度对比一下这些编程竞赛网站。</p>
 
 <h2 id="section">分类和排名</h2>
@@ -2712,9 +2712,9 @@ Windows预设是Big5编码,所以要想’rake generate’的时候不报编码�
   
   <entry>
     <title type="html"><![CDATA[数值计算库与科学计算库]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130226"/>
+    <link href="http://www.foreverlee.net/blog/20130226"/>
     <updated>2013-02-26T23:15:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/numerical-or-scientific-computation-library</id>
+    <id>http://www.foreverlee.net/blog/numerical-or-scientific-computation-library</id>
     <content type="html"><![CDATA[<h2 id="blas-">BLAS 接口</h2>
 <p><a href="http://www.netlib.org/blas/">BLAS</a>, <a href="http://www.netlib.org/lapack/">LAPACK</a>, <a href="http://math-atlas.sourceforge.net/">ATLAS</a> 这些数值计算库的名字很类似，他们之间有什么关系呢？BLAS是一组线性代数运算接口，目前是事实上的标准，很多数值计算/科学计算都实现了这套接口。</p>
 
@@ -2809,9 +2809,9 @@ Windows预设是Big5编码,所以要想’rake generate’的时候不报编码�
   
   <entry>
     <title type="html"><![CDATA[KNN与K-Means的区别]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130225"/>
+    <link href="http://www.foreverlee.net/blog/20130225"/>
     <updated>2013-02-25T23:41:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/differences-between-knn-and-kmeans</id>
+    <id>http://www.foreverlee.net/blog/differences-between-knn-and-kmeans</id>
     <content type="html"><![CDATA[<h2 id="knnk-nearest-neighbor">KNN(K-Nearest Neighbor)介绍</h2>
 <p>Wikipedia上的<a href="http://en.wikipedia.org/wiki/K-nearest_neighbor_algorithm">KNN词条</a>中有一个比较经典的图如下：</p>
 
@@ -2900,9 +2900,9 @@ Windows预设是Big5编码,所以要想’rake generate’的时候不报编码�
   
   <entry>
     <title type="html"><![CDATA[用VisualVM连接 tomcat 服务器时，如何配置tomcat启动JMX]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20120811"/>
+    <link href="http://www.foreverlee.net/blog/20120811"/>
     <updated>2012-08-11T21:37:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/configure-tomcat-jmx-to-allow-visualvm-connect-tomcat</id>
+    <id>http://www.foreverlee.net/blog/configure-tomcat-jmx-to-allow-visualvm-connect-tomcat</id>
     <content type="html"><![CDATA[<p>用VisualVM连接 tomcat 服务器时，需要让tomcat启动JMX，在catalina.sh 中添加一行代码即可：</p>
 
 <div class="bogus-wrapper"><notextile><figure class="code"><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class="line-number">1</span>
@@ -2918,9 +2918,9 @@ Windows预设是Big5编码,所以要想’rake generate’的时候不报编码�
   
   <entry>
     <title type="html"><![CDATA[安装和配置CentOS服务器的详细步骤]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20120423"/>
+    <link href="http://www.foreverlee.net/blog/20120423"/>
     <updated>2012-04-23T20:43:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/install-and-configure-a-centos-server-from-scratch</id>
+    <id>http://www.foreverlee.net/blog/install-and-configure-a-centos-server-from-scratch</id>
     <content type="html"><![CDATA[<p>这是我安装CentOS服务器的过程，记录下来，与大家一起分享。</p>
 
 <h2 id="section">安装操作系统</h2>
@@ -3890,9 +3890,9 @@ sudo shutdown -h now
   
   <entry>
     <title type="html"><![CDATA[制作 VMware ESXI 5 U盘安装盘]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20120418"/>
+    <link href="http://www.foreverlee.net/blog/20120418"/>
     <updated>2012-04-18T20:17:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/create-a-bootable-vmware-esxi-5-usb-stick</id>
+    <id>http://www.foreverlee.net/blog/create-a-bootable-vmware-esxi-5-usb-stick</id>
     <content type="html"><![CDATA[<p>有两种方法，使用 unetbootin ，或使用 LinuxLive USB Creator刻录可启动U盘。 
 ##使用 unetbootin
 这个方法最自动化，点击两下按钮即可，但是有时候会失败(我用EXSi 5.0 的ISO失败，但是用 EXSi 5.0U1可以成功)，U盘启动不了。 </p>
@@ -3947,9 +3947,9 @@ sudo shutdown -h now
   
   <entry>
     <title type="html"><![CDATA[在Ubuntu上安装Hadoop]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20120103"/>
+    <link href="http://www.foreverlee.net/blog/20120103"/>
     <updated>2012-01-03T18:54:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/hadoop-installation-on-ubuntu</id>
+    <id>http://www.foreverlee.net/blog/hadoop-installation-on-ubuntu</id>
     <content type="html"><![CDATA[<p>本文所使用的版本是 hadoop 1.0.0，即 <a href="http://www.iteye.com/news/23874">2011年12月27日发布的1.0正式版</a>。</p>
 
 <p>详细安装步骤如下，有大步骤，每个步骤里面有小步骤，绝大部分是必选，只有2步是可选的，粗体表示要特别注意的地方。</p>
@@ -4218,9 +4218,9 @@ dev@slave02:~$ jps
   
   <entry>
     <title type="html"><![CDATA[用javac命令行编译多个java文件]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20110623"/>
+    <link href="http://www.foreverlee.net/blog/20110623"/>
     <updated>2011-06-23T17:22:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/using-javac-to-compile-multi-java-files</id>
+    <id>http://www.foreverlee.net/blog/using-javac-to-compile-multi-java-files</id>
     <content type="html"><![CDATA[<ol>
   <li>CLASSPATH一定要具体到jar路径，例如</li>
 </ol>
@@ -4256,9 +4256,9 @@ dev@slave02:~$ jps
   
   <entry>
     <title type="html"><![CDATA[推荐给TeX新手的电子书和书籍]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20110417"/>
+    <link href="http://www.foreverlee.net/blog/20110417"/>
     <updated>2011-04-17T17:03:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/tex-resources-for-newbies</id>
+    <id>http://www.foreverlee.net/blog/tex-resources-for-newbies</id>
     <content type="html"><![CDATA[<h2 id="ctex">CTEX自带的文档</h2>
 <ol>
   <li>安装好CTEX后，c:CTEXCTeXctexdoc下的两个文档，ctex-faq.pdf和lshort-cn.pdf（即93 分钟学会 LaTeX2e）</li>
@@ -4291,9 +4291,9 @@ dev@slave02:~$ jps
   
   <entry>
     <title type="html"><![CDATA[基于朴素贝叶斯的文本分类算法]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20100528"/>
+    <link href="http://www.foreverlee.net/blog/20100528"/>
     <updated>2010-05-28T17:15:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/text-classification-algorithm-based-on-naive-bayes</id>
+    <id>http://www.foreverlee.net/blog/text-classification-algorithm-based-on-naive-bayes</id>
     <content type="html"><![CDATA[<p>作者: 灵魂机器<br />
 新浪博客：<a href="www.weibo.com/soulmachine">www.weibo.com/soulmachine</a><br />
 作者博客：<a href="www.yanjiuyanjiu.com">www.yanjiuyanjiu.com</a></p>
@@ -5216,9 +5216,9 @@ $$
   
   <entry>
     <title type="html"><![CDATA[Java使用imageio 读写图像]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20100401"/>
+    <link href="http://www.foreverlee.net/blog/20100401"/>
     <updated>2010-04-01T16:53:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/read-and-write-images-using-java-imageio</id>
+    <id>http://www.foreverlee.net/blog/read-and-write-images-using-java-imageio</id>
     <content type="html"><![CDATA[<p>Java中进行图像I/O（即读图片和写图片，不涉及到复杂图像处理）有三个方法：</p>
 
 <ol>
@@ -5499,9 +5499,9 @@ Metadata的类和接口。</p>
   
   <entry>
     <title type="html"><![CDATA[Java质量检测评估工具]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20100331"/>
+    <link href="http://www.foreverlee.net/blog/20100331"/>
     <updated>2010-03-31T16:45:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/java-qa-tools</id>
+    <id>http://www.foreverlee.net/blog/java-qa-tools</id>
     <content type="html"><![CDATA[<p>Java代码质量检测评估工具
 “五大” 代码分析领域：</p>
 

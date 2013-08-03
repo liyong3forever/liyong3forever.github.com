@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: algorithm | 研究研究]]></title>
-  <link href="http://www.yanjiuyanjiu.com/blog/categories/algorithm/atom.xml" rel="self"/>
-  <link href="http://www.yanjiuyanjiu.com/"/>
-  <updated>2013-07-23T23:00:58+08:00</updated>
-  <id>http://www.yanjiuyanjiu.com/</id>
+  <title><![CDATA[Category: algorithm | foreverLee]]></title>
+  <link href="http://www.foreverlee.net/blog/categories/algorithm/atom.xml" rel="self"/>
+  <link href="http://www.foreverlee.net/"/>
+  <updated>2013-08-03T22:45:27+08:00</updated>
+  <id>http://www.foreverlee.net/</id>
   <author>
     <name><![CDATA[soulmachine]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[一些主流的编程竞赛网站]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130322"/>
+    <link href="http://www.foreverlee.net/blog/20130322"/>
     <updated>2013-03-22T21:57:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/some-popular-programming-contest-websites</id>
+    <id>http://www.foreverlee.net/blog/some-popular-programming-contest-websites</id>
     <content type="html"><![CDATA[<p>今天把各个主流的编程网站仔细对比了一下，下面从各个角度对比一下这些编程竞赛网站。</p>
 
 <h2 id="section">分类和排名</h2>

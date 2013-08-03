@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: spark | 研究研究]]></title>
-  <link href="http://www.yanjiuyanjiu.com/blog/categories/spark/atom.xml" rel="self"/>
-  <link href="http://www.yanjiuyanjiu.com/"/>
-  <updated>2013-07-23T23:00:58+08:00</updated>
-  <id>http://www.yanjiuyanjiu.com/</id>
+  <title><![CDATA[Category: spark | foreverLee]]></title>
+  <link href="http://www.foreverlee.net/blog/categories/spark/atom.xml" rel="self"/>
+  <link href="http://www.foreverlee.net/"/>
+  <updated>2013-08-03T22:45:27+08:00</updated>
+  <id>http://www.foreverlee.net/</id>
   <author>
     <name><![CDATA[soulmachine]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[安装Spark集群(在CentOS上)]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130617"/>
+    <link href="http://www.foreverlee.net/blog/20130617"/>
     <updated>2013-06-17T22:16:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/installing-spark-on-centos-cn</id>
+    <id>http://www.foreverlee.net/blog/installing-spark-on-centos-cn</id>
     <content type="html"><![CDATA[<p><strong>环境</strong>:CentOS 6.4, Hadoop 1.1.2, JDK 1.7, Spark 0.7.2, Scala 2.9.3</p>
 
 <p>折腾了几天，终于把Spark 集群安装成功了，其实比hadoop要简单很多，由于网上搜索到的博客大部分都还停留在需要依赖mesos的版本，走了不少弯路。</p>
@@ -232,9 +232,9 @@ $ bin/stop-all.sh
   
   <entry>
     <title type="html"><![CDATA[Installing Spark on CentOS]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130614"/>
+    <link href="http://www.foreverlee.net/blog/20130614"/>
     <updated>2013-06-14T19:06:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/installing-spark-on-centos</id>
+    <id>http://www.foreverlee.net/blog/installing-spark-on-centos</id>
     <content type="html"><![CDATA[<p><strong>Environment</strong>:CentOS 6.4, Hadoop 1.1.2, JDK 1.7, Spark 0.7.2, Scala 2.9.3</p>
 
 <p>After a few days hacking , I have found that installing a Spark cluster is exteremely easy :)</p>
@@ -448,9 +448,9 @@ $ bin/stop-all.sh
   
   <entry>
     <title type="html"><![CDATA[使用Scala IDE 阅读spark源码 -- 将sbt项目转化为eclipse项目]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20130611"/>
+    <link href="http://www.foreverlee.net/blog/20130611"/>
     <updated>2013-06-11T11:48:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/read-spark-source-code-using-scala-ide</id>
+    <id>http://www.foreverlee.net/blog/read-spark-source-code-using-scala-ide</id>
     <content type="html"><![CDATA[<p>阅读Spark源代码，最简单的方式是下载源码包，解压后用纯文本方式来阅读源码。这样效率不高，可以用sbteclipse这个插件，将sbt项目文件转化为eclipse项目文件，然后导入到Scala IDE，用eclipse来阅读源码，效率大大提高。</p>
 
 <p><strong>环境</strong>：Windows 7, JDK 1.6</p>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: language | 研究研究]]></title>
-  <link href="http://www.yanjiuyanjiu.com/blog/categories/language/atom.xml" rel="self"/>
-  <link href="http://www.yanjiuyanjiu.com/"/>
-  <updated>2013-07-23T23:00:58+08:00</updated>
-  <id>http://www.yanjiuyanjiu.com/</id>
+  <title><![CDATA[Category: language | foreverLee]]></title>
+  <link href="http://www.foreverlee.net/blog/categories/language/atom.xml" rel="self"/>
+  <link href="http://www.foreverlee.net/"/>
+  <updated>2013-08-03T22:45:27+08:00</updated>
+  <id>http://www.foreverlee.net/</id>
   <author>
     <name><![CDATA[soulmachine]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[用javac命令行编译多个java文件]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20110623"/>
+    <link href="http://www.foreverlee.net/blog/20110623"/>
     <updated>2011-06-23T17:22:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/using-javac-to-compile-multi-java-files</id>
+    <id>http://www.foreverlee.net/blog/using-javac-to-compile-multi-java-files</id>
     <content type="html"><![CDATA[<ol>
   <li>CLASSPATH一定要具体到jar路径，例如</li>
 </ol>
@@ -52,9 +52,9 @@ java -cp .:$CLASSPATH crawler.ManagerThread
   
   <entry>
     <title type="html"><![CDATA[java命令行下运行class文件]]></title>
-    <link href="http://www.yanjiuyanjiu.com/blog/20100215"/>
+    <link href="http://www.foreverlee.net/blog/20100215"/>
     <updated>2010-02-15T16:27:00+08:00</updated>
-    <id>http://www.yanjiuyanjiu.com/blog/run-class-file-in-java-command-line</id>
+    <id>http://www.foreverlee.net/blog/run-class-file-in-java-command-line</id>
     <content type="html"><![CDATA[<p>今天碰到了一个很变态的问题，写了一个很简单的HelloWord.java，内容如下：</p>
 
 <p>``` java
