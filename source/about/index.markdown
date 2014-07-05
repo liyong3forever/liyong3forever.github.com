@@ -9,10 +9,10 @@ footer: true
 ##About Me
 **NickName**:       Jack Lee  
 **Born**:       1989, China  
-**Contact me**: [Weibo](http://weibo.com/liyong3forever) 
+**Contact me**: [Weibo](http://weibo.com/liyong3forever)  
 **Experiences**:  
 2011.09 -- Now, PHD Candidate, Institute of Automation, Chinese Academy of Sciences  
-2007.09 -- 2011.07, Bachelor, Computer Science and Technology, Whuhan University  
+2007.09 -- 2011.07, Bachelor, Electroics and Information Engineering, Huazhong University of Science and Technology  
 
 **Interrests**:  
 Machine Learning, Matrix Factorization,currently focused on deep learning  

@@ -3,10 +3,10 @@
 # ----------------------- #
 baseurl: /
 url: http://www.foreverlee.net
-title: foreverLee
+title: Forever Lee
 subtitle: 专注于机器学习
-author: soulmachine
-author_email: soulmachine@gmail.com
+author: Jack Lee
+author_email: liyongforevercas@163.com
 simple_search: http://google.com/search
 description: 一个关于机器学习的技术博客
 
