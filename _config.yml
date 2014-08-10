@@ -5,9 +5,9 @@ baseurl: /
 url: http://www.foreverlee.net
 title: Forever Lee
 subtitle: 专注于机器学习
-author: Jack Lee
+author: Forever Lee
 author_email: liyongforevercas@163.com
-simple_search: http://google.com/search
+simple_search: https://www.google.com.sg/search
 description: 一个关于机器学习的技术博客
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -92,7 +92,7 @@ disqus_show_comment_count: false
 
 # duoshuo comments
 duoshuo_comments: true
-duoshuo_short_name: yanjiuyanjiu
+duoshuo_short_name: foreverlee
 duoshuo_asides_num: 5      # 侧边栏评论显示条目数
 duoshuo_asides_avatars: 1   # 侧边栏评论是否显示头像
 duoshuo_asides_time: 1      # 侧边栏评论是否显示时间
@@ -101,7 +101,7 @@ duoshuo_asides_admin: 0     # 侧边栏评论是否显示作者评论
 duoshuo_asides_length: 32   # 侧边栏评论截取的长度
 
 # Google Analytics
-google_analytics_tracking_id: UA-7583537-4
+google_analytics_tracking_id: UA-53665369-1
 
 # Facebook Like
 facebook_like: false

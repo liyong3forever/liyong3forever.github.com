@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "about"
-date: 2014-07-05
-comments: true
-sharing: true
-footer: true
+#title: "about"
+#date: 2014-07-05
+#comments: true
+#sharing: true
+footer: false
 ---
 ##About Me
 **NickName**:       Forever Lee  
@@ -15,5 +15,5 @@ footer: true
 2007.09 -- 2011.07, Bachelor, Electroics and Information Engineering, Huazhong University of Science and Technology  
 
 **Interrests**:  
-Machine Learning, Subspace Learning, Matrix Factorization, Deep learning  
+Machine Learning, Computer Vision, Subspace Learning, Matrix Factorization, Deep learning  
 
