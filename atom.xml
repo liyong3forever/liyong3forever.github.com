@@ -4,7 +4,7 @@
   <title><![CDATA[Forever Lee]]></title>
   <link href="http://www.foreverlee.net/atom.xml" rel="self"/>
   <link href="http://www.foreverlee.net/"/>
-  <updated>2014-08-10T10:42:19+08:00</updated>
+  <updated>2014-09-05T08:41:25+08:00</updated>
   <id>http://www.foreverlee.net/</id>
   <author>
     <name><![CDATA[Forever Lee]]></name>
@@ -232,14 +232,17 @@ Windows预设是Big5编码,所以要想’rake generate’的时候不报编码�
 
 <p>在使用Octopress的时候，每次<code>rake generate</code>, <code>rake deploy</code>后，master分支下面的CNAME文件消失了。正确的做法是，把CNAME文件放到在 source 目录下，其余的都删掉，<code>rake generate</code> 会自动拷贝到public目录下，<code>rake deploy</code>再拷贝public目录内容到_deploy目录，并提交到master分支。</p>
 
-<p>转自：http://cn.soulmachine.me/blog/20130401/
-### 参考资料
-1. <a href="http://corey600.github.com/blog/2013/02/28/use-github-and-octopress-create-blog/">【原创】用Github和Octopress搭建博客</a>
-1. <a href="http://www.blogjava.net/lishunli/archive/2012/03/18/372115.html">试用Octopress</a>
-1. <a href="http://rubyer.me/blog/134/">windows下安装DevKit</a>
-1. <a href="http://blog.sprabbit.com/blog/2012/12/21/recover-octopress/">在新Windows系统中重新部署Octopress</a>
-1. <a href="http://hivan.me/octopress-install-to-windows8/">Windows 8安装Octopress记录</a>
-1. <a href="http://blog.sprabbit.com/blog/2012/03/23/octopress/">关于在64位 Windows 7 中部署中文化的Octopress</a></p>
+<p>转自：http://cn.soulmachine.me/blog/20130401/</p>
+
+<h3 id="section-2">参考资料</h3>
+<ol>
+  <li><a href="http://corey600.github.com/blog/2013/02/28/use-github-and-octopress-create-blog/">【原创】用Github和Octopress搭建博客</a></li>
+  <li><a href="http://www.blogjava.net/lishunli/archive/2012/03/18/372115.html">试用Octopress</a></li>
+  <li><a href="http://rubyer.me/blog/134/">windows下安装DevKit</a></li>
+  <li><a href="http://blog.sprabbit.com/blog/2012/12/21/recover-octopress/">在新Windows系统中重新部署Octopress</a></li>
+  <li><a href="http://hivan.me/octopress-install-to-windows8/">Windows 8安装Octopress记录</a></li>
+  <li><a href="http://blog.sprabbit.com/blog/2012/03/23/octopress/">关于在64位 Windows 7 中部署中文化的Octopress</a></li>
+</ol>
 ]]></content>
   </entry>
   
