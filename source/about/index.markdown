@@ -7,7 +7,8 @@ layout: page
 footer: false
 ---
 ##About Me
-**NickName**:       Forever Lee  
+**Name**:       Yong Li  
+**Email**:	liyong(at)nlpr(dot)ia(dot)ac(dot)cn  
 **Born**:       1989, China  
 **Contact me**: [Weibo](http://weibo.com/liyong3forever)  
 **Experiences**:  

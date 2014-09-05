@@ -203,6 +203,7 @@ www	CNAME	默认	soulmachine.github.com.		-	600
 
 
 转自：http://cn.soulmachine.me/blog/20130401/
+
 ### 参考资料
 1. [【原创】用Github和Octopress搭建博客](http://corey600.github.com/blog/2013/02/28/use-github-and-octopress-create-blog/)
 1. [试用Octopress](http://www.blogjava.net/lishunli/archive/2012/03/18/372115.html)
