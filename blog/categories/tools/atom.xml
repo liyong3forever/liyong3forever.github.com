@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tools | Forever Lee]]></title>
   <link href="http://www.foreverlee.net/blog/categories/tools/atom.xml" rel="self"/>
   <link href="http://www.foreverlee.net/"/>
-  <updated>2014-09-05T08:41:25+08:00</updated>
+  <updated>2014-09-08T13:56:43+08:00</updated>
   <id>http://www.foreverlee.net/</id>
   <author>
     <name><![CDATA[Forever Lee]]></name>
@@ -12,6 +12,187 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Caffe安装配置（Ubuntu 12.04+Cuda5.5）]]></title>
+    <link href="http://www.foreverlee.net/blog/20140908"/>
+    <updated>2014-09-08T15:14:00+08:00</updated>
+    <id>http://www.foreverlee.net/blog/caffe-an-zhuang-pei-zhi-ubuntu-12-dot-04-plus-cuda5-dot-5</id>
+    <content type="html"><![CDATA[<p><strong>1: 安装cuda5.5</strong><br />
+需要通过.run文件安装，alt+ctrl_f1切换到命令行下，<br />
+安装前先关闭xserver 否则会失败<br />
+sudo /etc/init.d/lightdm stop<br />
+跳过驱动安装过程否则安装会出错（driver installation is unable to locate the kernel source）<br />
+<strong>该部分参考：</strong><br />
+http://pastebin.com/fDpqvSi5 （翻墙访问）<br />
+https://devtalk.nvidia.com/default/topic/703506/problems-installing-cuda-5-5-deb-on-ubuntu-12-04-64-bit/<br />
+https://devtalk.nvidia.com/default/topic/639607/cuda-setup-and-installation/whats-the-correct-repository-for-ubuntu-13-10-64-bit-with-cuda-5-5/post/4029405/#4029405 <br />
+改路径<br />
+sudo gedit /etc/profile<br />
+if [ -d /etc/profile.d ]; then
+  for i in /etc/profile.d/*.sh; do
+    if [ -r $i ]; then
+      . $i
+    fi
+  done
+  export PATH=/usr/local/cuda/bin:$PATH #添加路径
+  unset i
+fi<br />
+查看安装版本 nvcc -V<br />
+测试cuda能够正常运行<br />
+打开样例 NVIDIA_CUDA-5.5_Samples/NVIDIA_CUDA-5.5_Samples/1_Utilities/deviceQuery<br />
+执行 make 命令 生产可执行文件<br />
+执行文件./deviceQuery<br />
+可以获得显卡信息  </p>
+
+<p><strong>2：安装boost 1.55.0</strong>
+Installing Boost on Ubuntu with an example of using boost array:<br />
+Install libboost-all-dev and aptitude<br />
+sudo apt-get install libboost-all-dev<br />
+sudo apt-get install aptitude<br />
+aptitude search boost<br />
+Then paste this into a C++ file called main.cpp:  </p>
+
+<pre><code> #include &lt;iostream&gt;
+ #include &lt;boost/array.hpp&gt;
+ using namespace std;
+ int main(){
+  boost::array&lt;int, 4&gt; arr = 1;
+  cout &lt;&lt; "hi" &lt;&lt; arr[0];
+  return 0;
+  }   Compile like this:   g++ -o s main.cpp   Run it like this:   ./s   Program prints:   hi1   参考： http://stackoverflow.com/questions/12578499/how-to-install-boost-on-ubuntu    3：opencv 2.4.9   参考   https://github.com/jayrambhia/Install-OpenCV/blob/master/Ubuntu/2.4/opencv2_4_9.sh   测试程序 [cpp]
+
+#include &lt;cv.h&gt;    
+#include &lt;highgui.h&gt;    
+  
+int main()    
+{    
+    //请确定程序目录下有一张测试用的图片temp.png  
+    const char *fileName = "temp.png";  
+    const char *title = "Image" ;    
+    IplImage *image = cvLoadImage(fileName, CV_LOAD_IMAGE_COLOR) ;    
+  
+    cvNamedWindow(title, CV_WINDOW_AUTOSIZE);    
+    cvShowImage(title, image);    
+    cvWaitKey(0);    
+  
+    cvReleaseImage(&amp;image);    
+    cvDestroyWindow(title);    
+  
+    return 0;    
+  
+}  
+</code></pre>
+
+<p>保存为 test.cpp<br />
+编译链接命令 g++ -L /usr/local/cuda/lib64/ test.cpp -o test <code>pkg-config --cflags --libs opencv</code><br />
+如果不添加 -L /usr/local/cuda/lib64/ <br />
+会出现如下错误，应该是编译用到以下cuda链接库<br />
+/usr/bin/ld: cannot find -lcufft
+/usr/bin/ld: cannot find -lnpps
+/usr/bin/ld: cannot find -lnppi
+/usr/bin/ld: cannot find -lnppc
+/usr/bin/ld: cannot find -lcudart
+collect2: ld returned 1 exit status
+解决办法参考： http://stackoverflow.com/questions/24322466/makefile-opencv-stopped-working   </p>
+
+<p><strong>4：安装其他库</strong><br />
+ sudo apt-get install libprotobuf-dev libleveldb-dev libsnappy-dev libhdf5-serial-dev <br />
+对于glog gflag imdb安装官方指南如下，个人遇到较多问题，参加注意事项。<br />
+ - # glog<br />
+wget https://google-glog.googlecode.com/files/glog-0.3.3.tar.gz
+tar zxvf glog-0.3.3.tar.gz
+cd glog-0.3.3
+./configure
+make &amp;&amp; make install
+ - # gflags<br />
+	wget https://github.com/schuhschuh/gflags/archive/master.zip
+	unzip master.zip
+	cd gflags-master
+	mkdir build &amp;&amp; cd build
+	export CXXFLAGS=”-fPIC” &amp;&amp; cmake .. &amp;&amp; make VERBOSE=1
+	make &amp;&amp; make install
+ - # lmdb<br />
+git clone git://gitorious.org/mdb/mdb.git
+cd mdb/libraries/liblmdb
+make &amp;&amp; make install
+Note that glog does not compile with the most recent gflags version (2.1), so before that is resolved you will need to build with glog first.</p>
+
+<hr />
+
+<p><strong>注意事项：</strong><br />
+1: 根据提醒，要安装glog，如果已经安装gflag需要先把gflag卸载掉 sudo apt-get remove gflags<br />
+否则会出现gflag文件相关错误。<br />
+2：gflag安装是基于cmake完成的，需要先安装cmake，否则会报错。<br />
+gflag上述安装有问题，<br />
+make all 时候遇到错误如下<br />
+/usr/local/lib/libgflags.a: could not read symbols: Bad value<br />
+collect2: error: ld returned 1 exit statu<br />
+重新安装gflags解决, <br />
+参考https://code.google.com/p/google-glog/issues/detail?id=201<br />
+$ tar -xvf gflags-2.1.1.tar.gz<br />
+$ cd gflags-2.1.1 &amp;&amp; mkdir build &amp;&amp; cd build<br />
+$ CXXFLAGS=”-fPIC” cmake .. -DGFLAGS_NAMESPACE=google<br />
+$ sudo make install<br />
+<strong>5: 编译caffe</strong><br />
+make all<br />
+make test<br />
+make runtest<br />
+出现以下问题<br />
+找不到lcudart.so<br />
+找不到libmkl_rt.so<br />
+将cuda和mkl添加进链接库路径即可<br />
+具体方法： sudo gedit /etc/ld.so.conf 进行编辑 添加以下两行<br />
+/usr/local/cuda/lib64<br />
+/opt/intel/mkl/lib/intel64<br />
+保存之后，进行生成才会生效，sudo ldconfig /etc/ld.so.conf。（可以通过观察ld.so.cache 生成时间看上述过程是否生效）  </p>
+
+<p>make all 时候遇到错误如下<br />
+/usr/local/lib/libgflags.a: could not read symbols: Bad value<br />
+collect2: error: ld returned 1 exit statu<br />
+重新安装gflags解决, <br />
+参考https://code.google.com/p/google-glog/issues/detail?id=201<br />
+Same issue on Ubuntu 14.04, 64 bit, g++ 4.8.2, glibc 2.19<br />
+Solved by compiling gflags-2.1.1 with -fPIC:  </p>
+
+<p>$ tar -xvf gflags-2.1.1.tar.gz<br />
+$ cd gflags-2.1.1 &amp;&amp; mkdir build &amp;&amp; cd build<br />
+$ CXXFLAGS=”-fPIC” cmake .. -DGFLAGS_NAMESPACE=google<br />
+$ sudo make install<br />
+之后又make all 时候遇到错误如下<br />
+undefined reference to `gflags::ParseCommandLineFlags‘<br />
+解决办法参考：http://blog.itpub.net/16582684/viewspace-1256380/<br />
+修改Makefile.config, 注释CPU_ONLY := 1, 同时修改CUSTOM_CXX := g++-4.6<br />
+sudo apt-get install gcc-4.6 g++-4.6 gcc-4.6-multilib g++-4.6-multilib<br />
+修改这两个文件<br />
+vi src/caffe/common.cpp<br />
+vi tools/caffe.cpp<br />
+使用google替代gflags<br />
+make clean<br />
+make<br />
+<strong>6：minist 测试</strong><br />
+首先下载并生产数据集<br />
+cd $CAFFE_ROOT/data/mnist<br />
+./get_mnist.sh<br />
+cd $CAFFE_ROOT/examples/mnist<br />
+./create_mnist.sh<br />
+训练模型：<br />
+cd $CAFFE_ROOT/examples/mnist<br />
+./train_lenet.sh<br />
+<strong>7：其他相关</strong><br />
+matlab 接口编译<br />
+修改config文件<br />
+gedit Makefile.config<br />
+# This is required only if you will compile the matlab interface.<br />
+# MATLAB directory should contain the mex binary in /bin.<br />
+MATLAB_DIR := /usr/local<br />
+MATLAB_DIR := /usr/local/MATLAB/MATLAB_Production_Server/R2013a<br />
+重新编译 <br />
+sudo make clean<br />
+make  </p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[使用github + Octopress 搭建免费博客]]></title>
