@@ -6,7 +6,7 @@ comments: false
 sharing: false
 footer: false
 ---
-**Yong Li**, Jing Liu, Hanqing Lu, Songde Ma, [Learning Robust Face Representation with Classwise Block-Diagonal Structure](http://ieeexplore.ieee.org/xpl/abstractKeywords.jsp?reload=true&arnumber=6918458&sortType%3Dasc_p_Sequence%26filter%3DAND(p_Publication_Number%3A10206)%26pageNumber%3D2%26rowsPerPage%3D75), IEEE Trans. Inf. Forensics Security, 2014, p2051-2062  
+**Yong Li**, Jing Liu, Hanqing Lu, Songde Ma, [Learning Robust Face Representation with Classwise Block-Diagonal Structure](http://ieeexplore.ieee.org/xpl/abstractKeywords.jsp?reload=true&arnumber=6918458&sortType%3Dasc_p_Sequence%26filter%3DAND(p_Publication_Number%3A10206)%26pageNumber%3D2%26rowsPerPage%3D75), [Code](https://github.com/liyong3forever/RCBD), IEEE Trans. Inf. Forensics Security, 2014, p2051-2062  
 
 **Yong Li**, Jing Liu, Zechao Li, Yangmuzi Zhang, Hanqing Lu, Songde Ma, [Learning Low-Rank Representations with Classwise Block-Diagonal Structure for Robust Face Recognition](http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8200/8634)(ORAL),[Code](https://github.com/liyong3forever/CBDS/tree/master), AAAI 2014, P2810-2816  
 
