@@ -6,6 +6,8 @@ comments: false
 sharing: false
 footer: false
 ---
+**Yong Li**, Jing Liu, Yuhang Wang, Hanqing Lu, Songde Ma, Weakly Supervised RBM for Semantic Segmentation, IJCAI, 2015, Accepted 
+
 **Yong Li**, Jing Liu, Hanqing Lu, Songde Ma, [Learning Robust Face Representation with Classwise Block-Diagonal Structure](http://ieeexplore.ieee.org/xpl/abstractKeywords.jsp?reload=true&arnumber=6918458&sortType%3Dasc_p_Sequence%26filter%3DAND(p_Publication_Number%3A10206)%26pageNumber%3D2%26rowsPerPage%3D75),  
 [Code](https://github.com/liyong3forever/RCBD), IEEE Trans. Inf. Forensics Security, 2014, p2051-2062  
 
@@ -15,4 +17,5 @@ footer: false
 
 **Yong Li**, Jing Liu, Zechao Li, Yang Liu, Hanqing Lu, 
 [Object co-segmentation via discriminative low rank matrix recovery](http://dl.acm.org/citation.cfm?id=2502195), ACM Multimedia 2013, P749-752
+
 
