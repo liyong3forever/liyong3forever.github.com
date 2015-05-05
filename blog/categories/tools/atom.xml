@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tools | Forever Lee]]></title>
   <link href="http://www.foreverlee.net/blog/categories/tools/atom.xml" rel="self"/>
   <link href="http://www.foreverlee.net/"/>
-  <updated>2015-05-05T22:18:42+08:00</updated>
+  <updated>2015-05-05T22:46:03+08:00</updated>
   <id>http://www.foreverlee.net/</id>
   <author>
     <name><![CDATA[Forever Lee]]></name>
@@ -57,7 +57,7 @@ Then paste this into a C++ file called main.cpp:  </p>
  #include &lt;boost/array.hpp&gt;
  using namespace std;
  int main(){
-  boost::array&lt;int, 4&gt; arr = 1;
+  boost::array&lt;int, 4&gt; arr = {{1,2,3,4}};
   cout &lt;&lt; "hi" &lt;&lt; arr[0];
   return 0;
   }   Compile like this:   g++ -o s main.cpp   Run it like this:   ./s   Program prints:   hi1   参考： http://stackoverflow.com/questions/12578499/how-to-install-boost-on-ubuntu    3：opencv 2.4.9   参考   https://github.com/jayrambhia/Install-OpenCV/blob/master/Ubuntu/2.4/opencv2_4_9.sh   测试程序 [cpp]
