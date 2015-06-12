@@ -26,7 +26,7 @@ Yong Li is a 4-th year Ph.D Candidate advised by Pro. Songde Ma and Pro. Hanqing
 
 **Awards**  
 
-**First Prize** in Chinese Undergraduate Mathematical Contests in Modeling(**CUMCM**), 2009.
+**First Prize** in Chinese Undergraduate Mathematical Contests in Modeling(**CUMCM**), 2009.  
 **"Microsoft young fellowship"** was honored (30 in total around the country), 2010  
 "National Encouragement Scholarship" was received, 2010  
 “Merit Student” award was received (15%), 2012, 2014  

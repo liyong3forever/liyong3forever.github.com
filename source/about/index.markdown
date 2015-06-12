@@ -10,7 +10,7 @@ footer: false
 **Name**:       Yong Li  
 **Email**:	liyong(at)nlpr.ia.ac.cn  
 **Born**:       1989, China  
-**Contact me**: [Weibo](http://weibo.com/liyong3forever) [Linkedin](https://cn.linkedin.com/in/foreverlee) 
+**Contact me**: [Weibo](http://weibo.com/liyong3forever) [Linkedin](https://cn.linkedin.com/in/foreverlee)   
 **Experiences**:  
 2011.09 -- Now, 4-th Year PHD Candidate, NLPR, Institute of Automation, Chinese Academy of Sciences  
 2007.09 -- 2011.07, Bachelor, Electroics and Information Engineering, Huazhong University of Science and Technology  
