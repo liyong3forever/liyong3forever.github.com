@@ -4,7 +4,7 @@
   <title><![CDATA[Forever Lee]]></title>
   <link href="http://www.foreverlee.net/atom.xml" rel="self"/>
   <link href="http://www.foreverlee.net/"/>
-  <updated>2015-06-03T00:12:24+08:00</updated>
+  <updated>2015-06-12T23:38:31+08:00</updated>
   <id>http://www.foreverlee.net/</id>
   <author>
     <name><![CDATA[Forever Lee]]></name>
@@ -18,8 +18,7 @@
     <link href="http://www.foreverlee.net/blog/20150602"/>
     <updated>2015-06-02T00:00:00+08:00</updated>
     <id>http://www.foreverlee.net/blog/personal-resume</id>
-    <content type="html"><![CDATA[<p>I am now 4-th Year PHD Candidate with the supervision of Pro. Songde Ma and Hanqing Lu at national laboratory of pattern recognition (NLPR), Institute of Automation, Chinese
-Academy of Sciences, Beijing, China. I  received the B.E. degree from the Huazhong University of Science and Technology, Wuhan, China, in 2011. I am interested in machine learning, semantic segmentation, deep learning, matrix factorization. I am a recipient of the Microsoft Young Fellowship in 2010.  </p>
+    <content type="html"><![CDATA[<p>Yong Li is a 4-th year Ph.D Candidate advised by Pro. Songde Ma and Pro. Hanqing Lu at national laboratory of pattern recognition (NLPR), Institute of Automation, Chinese Academy of Sciences.  He got his B.E. degree from the Huazhong University of Science and Technology. His research interest includes machine learning, computer vision, semantic segmentation, deep learning.  He also has good knowledge of mathematical modelling. He received the first prize in Chinese Undergraduate Mathematical Contest in Modelling (CUMCM) 2009. He was invited to the camp of Microsoft Young Fellow in 2010 and was a recipient of the Microsoft Young Fellowship.</p>
 
 <p><strong>Publications</strong>:  </p>
 
@@ -37,12 +36,12 @@ Academy of Sciences, Beijing, China. I  received the B.E. degree from the Huazho
 
 <p><strong>Awards</strong>  </p>
 
-<p>“Second Prize” in the <a href="http://imageclef.org/2015/annotation">ImageCLEF Annotation Task</a> to annotate and localize 500,000 web images, 2015<br />
+<p><strong>First Prize</strong> in Chinese Undergraduate Mathematical Contests in Modeling(<strong>CUMCM</strong>), 2009.
+<strong>“Microsoft young fellowship”</strong> was honored (30 in total around the country), 2010<br />
+“National Encouragement Scholarship” was received, 2010<br />
 “Merit Student” award was received (15%), 2012, 2014<br />
 “Excellent Student Leader” award was received (2%), 2012<br />
-“National Encouragement Scholarship” was received, 2010<br />
-<strong>“Microsoft young fellowship”</strong> was honored (30 in total around the country), 2010<br />
-<strong>First Prize</strong> in Chinese Undergraduate Mathematical Contests in Modeling(<strong>CUMCM</strong>), 2009.</p>
+ “Second Place” in the <a href="http://imageclef.org/2015/annotation">ImageCLEF Annotation Task</a> to annotate and localize 500,000 web images with 251 concepts, 2015  </p>
 
 ]]></content>
   </entry>
