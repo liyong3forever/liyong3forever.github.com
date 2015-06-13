@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Forever Lee]]></title>
-  <link href="http://www.foreverlee.net/atom.xml" rel="self"/>
+  <title><![CDATA[Category: resume | Forever Lee]]></title>
+  <link href="http://www.foreverlee.net/blog/categories/resume/atom.xml" rel="self"/>
   <link href="http://www.foreverlee.net/"/>
   <updated>2015-06-13T19:57:10+08:00</updated>
   <id>http://www.foreverlee.net/</id>
