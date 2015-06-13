@@ -3,8 +3,8 @@ layout: post
 title: "personal resume"
 #date: 2015-06-02 23:46
 #comments: true
-#categories: 
-footer: false
+categories: resume
+footer: false 
 ---
 Yong Li is a 4-th year Ph.D Candidate advised by Pro. Songde Ma and Pro. Hanqing Lu at national laboratory of pattern recognition (NLPR), Institute of Automation, Chinese Academy of Sciences.  He got his B.E. degree from the Huazhong University of Science and Technology. His research interest includes machine learning, computer vision, semantic segmentation, deep learning.  He also has good knowledge of mathematical modelling. He received the first prize in Chinese Undergraduate Mathematical Contest in Modelling (CUMCM) 2009. He was invited to the camp of Microsoft Young Fellow in 2010 and was a recipient of the Microsoft Young Fellowship.
 
