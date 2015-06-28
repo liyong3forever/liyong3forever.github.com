@@ -6,7 +6,7 @@ title: "personal resume"
 categories: resume
 footer: false 
 ---
-Yong Li is a 4-th year Ph.D Candidate advised by Pro. Songde Ma and Pro. Hanqing Lu at national laboratory of pattern recognition (NLPR), Institute of Automation, Chinese Academy of Sciences.  He got his B.E. degree from the Huazhong University of Science and Technology. His research interest includes machine learning, computer vision, semantic segmentation, deep learning.  He also has good knowledge of mathematical modelling. He received the first prize in Chinese Undergraduate Mathematical Contest in Modelling (CUMCM) 2009. He was invited to the camp of Microsoft Young Fellow in 2010 and was a recipient of the Microsoft Young Fellowship.
+Yong Li is a 4-th year Ph.D Candidate advised by Pro. [Songde Ma](http://sourcedb.ia.cas.cn/en/iaexpert/200910/t20091012_2542915.html) and Pro. [Hanqing Lu](http://www.nlpr.ia.ac.cn/iva/People_detail_luhanqing.html) at national laboratory of pattern recognition (NLPR), Institute of Automation, Chinese Academy of Sciences.  He got his B.E. degree from the Huazhong University of Science and Technology. His research interest includes machine learning, computer vision, semantic segmentation, deep learning.  He also has good knowledge of mathematical modelling. He received the first prize in Chinese Undergraduate Mathematical Contest in Modelling (CUMCM) 2009. He was invited to the camp of Microsoft Young Fellow in 2010 and was a recipient of the Microsoft Young Fellowship.
 
 **Publications**:  
 
@@ -26,10 +26,10 @@ Yong Li is a 4-th year Ph.D Candidate advised by Pro. Songde Ma and Pro. Hanqing
 
 **Awards**  
 
-**First Prize** in Chinese Undergraduate Mathematical Contests in Modeling(**CUMCM**), 2009.  
+**First Prize** in Chinese Undergraduate Mathematical Contests in Modeling(**CUMCM**), Team Leader, 2009.  
 **"Microsoft young fellowship"** was honored (30 in total around the country), 2010  
 "National Encouragement Scholarship" was received, 2010  
 “Merit Student” award was received (15%), 2012, 2014  
 “Excellent Student Leader” award was received (2%), 2012  
- "Second Place" in the [ImageCLEF Annotation Task](http://imageclef.org/2015/annotation) to annotate and localize 500,000 web images with 251 concepts, 2015  
+ "Second Place" in the [ImageCLEF Annotation Task](http://imageclef.org/2015/annotation) to annotate and localize 500,000 web images with 251 concepts, Team Leader, 2015  
 

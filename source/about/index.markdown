@@ -20,9 +20,9 @@ Machine Learning, Semantic Segmentation, Deep Learning, Matrix Factorization
 
 **Awards**
 
- "Second Place" in the [ImageCLEF Annotation Task](http://imageclef.org/2015/annotation) to annotate and localize 500,000 web images with 251 concepts, 2015  
+ "Second Place" in the [ImageCLEF Annotation Task](http://imageclef.org/2015/annotation) to annotate and localize 500,000 web images with 251 concepts, Team Leader,2015  
 “Merit Student” award was received (15%), 2012, 2014  
 “Excellent Student Leader” award was received (2%), 2012  
 "National Encouragement Scholarship" was received, 2010  
 **"Microsoft young fellowship"** was honored (30 in total around the country), 2010  
-**First Prize** in Chinese Undergraduate Mathematical Contests in Modeling(**CUMCM**), 2009.
+**First Prize** in Chinese Undergraduate Mathematical Contests in Modeling(**CUMCM**), Team Leader,2009.
