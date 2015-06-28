@@ -4,7 +4,7 @@
   <title><![CDATA[Forever Lee]]></title>
   <link href="http://www.foreverlee.net/atom.xml" rel="self"/>
   <link href="http://www.foreverlee.net/"/>
-  <updated>2015-06-13T19:57:10+08:00</updated>
+  <updated>2015-06-28T20:45:32+08:00</updated>
   <id>http://www.foreverlee.net/</id>
   <author>
     <name><![CDATA[Forever Lee]]></name>
@@ -18,7 +18,7 @@
     <link href="http://www.foreverlee.net/blog/20150602"/>
     <updated>2015-06-02T00:00:00+08:00</updated>
     <id>http://www.foreverlee.net/blog/personal-resume</id>
-    <content type="html"><![CDATA[<p>Yong Li is a 4-th year Ph.D Candidate advised by Pro. Songde Ma and Pro. Hanqing Lu at national laboratory of pattern recognition (NLPR), Institute of Automation, Chinese Academy of Sciences.  He got his B.E. degree from the Huazhong University of Science and Technology. His research interest includes machine learning, computer vision, semantic segmentation, deep learning.  He also has good knowledge of mathematical modelling. He received the first prize in Chinese Undergraduate Mathematical Contest in Modelling (CUMCM) 2009. He was invited to the camp of Microsoft Young Fellow in 2010 and was a recipient of the Microsoft Young Fellowship.</p>
+    <content type="html"><![CDATA[<p>Yong Li is a 4-th year Ph.D Candidate advised by Pro. <a href="http://sourcedb.ia.cas.cn/en/iaexpert/200910/t20091012_2542915.html">Songde Ma</a> and Pro. <a href="http://www.nlpr.ia.ac.cn/iva/People_detail_luhanqing.html">Hanqing Lu</a> at national laboratory of pattern recognition (NLPR), Institute of Automation, Chinese Academy of Sciences.  He got his B.E. degree from the Huazhong University of Science and Technology. His research interest includes machine learning, computer vision, semantic segmentation, deep learning.  He also has good knowledge of mathematical modelling. He received the first prize in Chinese Undergraduate Mathematical Contest in Modelling (CUMCM) 2009. He was invited to the camp of Microsoft Young Fellow in 2010 and was a recipient of the Microsoft Young Fellowship.</p>
 
 <p><strong>Publications</strong>:  </p>
 
@@ -36,12 +36,12 @@
 
 <p><strong>Awards</strong>  </p>
 
-<p><strong>First Prize</strong> in Chinese Undergraduate Mathematical Contests in Modeling(<strong>CUMCM</strong>), 2009.<br />
+<p><strong>First Prize</strong> in Chinese Undergraduate Mathematical Contests in Modeling(<strong>CUMCM</strong>), Team Leader, 2009.<br />
 <strong>“Microsoft young fellowship”</strong> was honored (30 in total around the country), 2010<br />
 “National Encouragement Scholarship” was received, 2010<br />
 “Merit Student” award was received (15%), 2012, 2014<br />
 “Excellent Student Leader” award was received (2%), 2012<br />
- “Second Place” in the <a href="http://imageclef.org/2015/annotation">ImageCLEF Annotation Task</a> to annotate and localize 500,000 web images with 251 concepts, 2015  </p>
+ “Second Place” in the <a href="http://imageclef.org/2015/annotation">ImageCLEF Annotation Task</a> to annotate and localize 500,000 web images with 251 concepts, Team Leader, 2015  </p>
 
 ]]></content>
   </entry>
