@@ -11,7 +11,11 @@ Yong Li is a 4-th year Ph.D Candidate advised by Pro. [Songde Ma](http://sourced
 **Publications**:  
 
 
-**Yong Li**, Jing Liu, Yuhang Wang, Hanqing Lu, Songde Ma, Weakly Supervised RBM for Semantic Segmentation, IJCAI, 2015, Accepted 
+**Yong Li**, Jing Liu, Yuhang Wang, Hanqing Lu, Songde Ma, Weakly Supervised RBM for Semantic Segmentation, IJCAI, 2015, Accepted  
+
+Yuhang Wang, Jing Liu, **Yong Li**, Hanqing Lu, Semi- and Weakly-Supervised Segmantic Segmantation With Deep Convoluational Neural Networks,  ACM Multimedia 2015
+
+Yuhang Wang, Jing Liu, **Yong Li**, Hanqing Lu, Color Names Learning Using Convolutional Neural Networks,  ICIP 2015
 
 **Yong Li**, Jing Liu, Hanqing Lu, Songde Ma, [Learning Robust Face Representation with Classwise Block-Diagonal Structure](http://ieeexplore.ieee.org/xpl/abstractKeywords.jsp?reload=true&arnumber=6918458&sortType%3Dasc_p_Sequence%26filter%3DAND(p_Publication_Number%3A10206)%26pageNumber%3D2%26rowsPerPage%3D75),  
 [Code](https://github.com/liyong3forever/RCBD), IEEE Trans. Inf. Forensics Security, 2014, p2051-2062  
@@ -31,5 +35,6 @@ Yong Li is a 4-th year Ph.D Candidate advised by Pro. [Songde Ma](http://sourced
 "National Encouragement Scholarship" was received, 2010  
 “Merit Student” award was received (15%), 2012, 2014  
 “Excellent Student Leader” award was received (2%), 2012  
+ "The First-Class Scholarship" of PanDeng prize (6/500+), 2015   
  "Second Place" in the [ImageCLEF Annotation Task](http://imageclef.org/2015/annotation) to annotate and localize 500,000 web images with 251 concepts, Team Leader, 2015  
 

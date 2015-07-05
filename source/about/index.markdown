@@ -16,11 +16,12 @@ footer: false
 2007.09 -- 2011.07, Bachelor, Electroics and Information Engineering, Huazhong University of Science and Technology  
 
 **Interrests**:  
-Machine Learning, Semantic Segmentation, Deep Learning, Matrix Factorization  
+Machine Learning, Computer Vision, Semantic Segmentation, Deep Learning, Matrix Factorization  
 
 **Awards**
 
- "Second Place" in the [ImageCLEF Annotation Task](http://imageclef.org/2015/annotation) to annotate and localize 500,000 web images with 251 concepts, Team Leader,2015  
+"Second Place" in the [ImageCLEF Annotation Task](http://imageclef.org/2015/annotation) to annotate and localize 500,000 web images with 251 concepts, Team Leader,2015      
+"The First-Class Scholarship" of PanDeng prize (6/500+), 2015     
 “Merit Student” award was received (15%), 2012, 2014  
 “Excellent Student Leader” award was received (2%), 2012  
 "National Encouragement Scholarship" was received, 2010  
