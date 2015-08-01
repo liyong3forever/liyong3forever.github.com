@@ -6,7 +6,7 @@ comments: false
 sharing: false
 footer: false
 ---
-**Yong Li**, Jing Liu, Yuhang Wang, Hanqing Lu, Songde Ma, [Weakly Supervised RBM for Semantic Segmentation](http://ijcai.org/papers15/Abstracts/IJCAI15-268.html), IJCAI, 2015, p1888-1894 
+**Yong Li**, Jing Liu, Yuhang Wang, Hanqing Lu, Songde Ma, [Weakly Supervised RBM for Semantic Segmentation](http://ijcai.org/papers15/Abstracts/IJCAI15-268.html), [ORAL](https://github.com/liyong3forever/liyong3forever.github.com/blob/master/WRBM-ORAL.pdf), [Poster](https://github.com/liyong3forever/liyong3forever.github.com/blob/master/WRBM-POSTER.pdf), IJCAI, 2015, p1888-1894 
 
 Yuhang Wang, Jing Liu, **Yong Li**, Hanqing Lu, Semi- and Weakly-Supervised Segmantic Segmantation With Deep Convoluational Neural Networks,  ACM Multimedia 2015
 

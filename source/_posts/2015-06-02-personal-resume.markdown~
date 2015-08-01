@@ -11,7 +11,7 @@ Yong Li is a 4-th year Ph.D Candidate advised by Pro. [Songde Ma](http://sourced
 **Publications**:  
 
 
-**Yong Li**, Jing Liu, Yuhang Wang, Hanqing Lu, Songde Ma, [Weakly Supervised RBM for Semantic Segmentation](http://ijcai.org/papers15/Abstracts/IJCAI15-268.html), IJCAI, 2015, p1888-1894 
+**Yong Li**, Jing Liu, Yuhang Wang, Hanqing Lu, Songde Ma, [Weakly Supervised RBM for Semantic Segmentation](http://ijcai.org/papers15/Abstracts/IJCAI15-268.html), [ORAL](https://github.com/liyong3forever/liyong3forever.github.com/blob/master/WRBM-ORAL.pdf), [Poster](https://github.com/liyong3forever/liyong3forever.github.com/blob/master/WRBM-POSTER.pdf), IJCAI, 2015, p1888-1894 
 
 Yuhang Wang, Jing Liu, **Yong Li**, Hanqing Lu, Semi- and Weakly-Supervised Segmantic Segmantation With Deep Convoluational Neural Networks,  ACM Multimedia 2015
 
@@ -36,5 +36,6 @@ Yuhang Wang, Jing Liu, **Yong Li**, Hanqing Lu, Color Names Learning Using Convo
 “Merit Student” award was received (15%), 2012, 2014  
 “Excellent Student Leader” award was received (2%), 2012  
  "The First-Class Scholarship" of PanDeng prize (6/500+), 2015   
- "Second Place" in the [ImageCLEF Annotation Task](http://imageclef.org/2015/annotation) to annotate and localize 500,000 web images with 251 concepts, Work Notes (), Team Leader, 2015  
+ "Second Place" in the [ImageCLEF Annotation Task](http://imageclef.org/2015/annotation) to annotate and localize 500,000 web images with 251 concepts
+, [Work Notes](https://github.com/liyong3forever/liyong3forever.github.com/blob/source/source/iva_nlpr.pdf), Team Leader, 2015  
 
