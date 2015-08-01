@@ -11,7 +11,7 @@ Yong Li is a 4-th year Ph.D Candidate advised by Pro. [Songde Ma](http://sourced
 **Publications**:  
 
 
-**Yong Li**, Jing Liu, Yuhang Wang, Hanqing Lu, Songde Ma, Weakly Supervised RBM for Semantic Segmentation, IJCAI, 2015, Accepted  
+**Yong Li**, Jing Liu, Yuhang Wang, Hanqing Lu, Songde Ma, [Weakly Supervised RBM for Semantic Segmentation](http://ijcai.org/papers15/Abstracts/IJCAI15-268.html), IJCAI, 2015, p1888-1894 
 
 Yuhang Wang, Jing Liu, **Yong Li**, Hanqing Lu, Semi- and Weakly-Supervised Segmantic Segmantation With Deep Convoluational Neural Networks,  ACM Multimedia 2015
 
@@ -22,7 +22,7 @@ Yuhang Wang, Jing Liu, **Yong Li**, Hanqing Lu, Color Names Learning Using Convo
 
 **Yong Li**, Jing Liu, Zechao Li, Yangmuzi Zhang, Hanqing Lu, Songde Ma, [Learning Low-Rank Representations with Classwise Block-Diagonal Structure for Robust Face Recognition](http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8200/8634)(ORAL),[Code](https://github.com/liyong3forever/CBDS/tree/master), AAAI 2014, P2810-2816  
 
-**Yong Li**, Jing Liu, Zechao Li, Hanqing Lu, Songde Ma, Object  Co-segmentation via Salient and Common Regions Discovery, Neurocomputing,  Accepted   
+**Yong Li**, Jing Liu, Zechao Li, Hanqing Lu, Songde Ma, [Object  Co-segmentation via Salient and Common Regions Discovery](http://www.sciencedirect.com/science/article/pii/S0925231215006116), Neurocomputing, 2014  
 
 **Yong Li**, Jing Liu, Zechao Li, Yang Liu, Hanqing Lu, 
 [Object co-segmentation via discriminative low rank matrix recovery](http://dl.acm.org/citation.cfm?id=2502195), ACM Multimedia 2013, P749-752
@@ -36,5 +36,5 @@ Yuhang Wang, Jing Liu, **Yong Li**, Hanqing Lu, Color Names Learning Using Convo
 “Merit Student” award was received (15%), 2012, 2014  
 “Excellent Student Leader” award was received (2%), 2012  
  "The First-Class Scholarship" of PanDeng prize (6/500+), 2015   
- "Second Place" in the [ImageCLEF Annotation Task](http://imageclef.org/2015/annotation) to annotate and localize 500,000 web images with 251 concepts, Team Leader, 2015  
+ "Second Place" in the [ImageCLEF Annotation Task](http://imageclef.org/2015/annotation) to annotate and localize 500,000 web images with 251 concepts, Work Notes (), Team Leader, 2015  
 
