@@ -1,21 +1,21 @@
 ---
 layout: post
 title: "personal resume"
-#date: 2015-06-02 23:46
+#date: 2016-03-03 23:46
 #comments: true
 categories: resume
 footer: false 
 ---
-Yong Li is a 4-th year Ph.D Candidate advised by Pro. [Songde Ma](http://sourcedb.ia.cas.cn/en/iaexpert/200910/t20091012_2542915.html) and Pro. [Hanqing Lu](http://www.nlpr.ia.ac.cn/iva/People_detail_luhanqing.html) at national laboratory of pattern recognition (NLPR), Institute of Automation, Chinese Academy of Sciences.  He got his B.E. degree from the Huazhong University of Science and Technology. His research interest includes machine learning, computer vision, semantic segmentation, deep learning.  He also has good knowledge of mathematical modelling. He received the first prize in Chinese Undergraduate Mathematical Contest in Modelling (CUMCM) 2009. He was invited to the camp of Microsoft Young Fellow in 2010 and was a recipient of the Microsoft Young Fellowship.
+Yong Li is a 5-th year Ph.D Candidate advised by Pro. [Songde Ma](http://sourcedb.ia.cas.cn/en/iaexpert/200910/t20091012_2542915.html) and Pro. [Hanqing Lu](http://www.nlpr.ia.ac.cn/iva/People_detail_luhanqing.html) at national laboratory of pattern recognition (NLPR), Institute of Automation, Chinese Academy of Sciences.  He got his B.E. degree from the Huazhong University of Science and Technology. His research interest includes machine learning, computer vision, semantic segmentation, deep learning.  He also has good knowledge of mathematical modelling. He received the first prize in Chinese Undergraduate Mathematical Contest in Modelling (CUMCM) 2009. He was invited to the camp of Microsoft Young Fellow in 2010 and was a recipient of the Microsoft Young Fellowship.
 
 **Publications**:  
 
 
 **Yong Li**, Jing Liu, Yuhang Wang, Hanqing Lu, Songde Ma, [Weakly Supervised RBM for Semantic Segmentation](http://ijcai.org/papers15/Abstracts/IJCAI15-268.html), [ORAL](https://github.com/liyong3forever/liyong3forever.github.com/blob/master/WRBM-ORAL.pdf), [Poster](https://github.com/liyong3forever/liyong3forever.github.com/blob/master/WRBM-POSTER.pdf), IJCAI, 2015, p1888-1894 
 
-Yuhang Wang, Jing Liu, **Yong Li**, Hanqing Lu, Semi- and Weakly-Supervised Segmantic Segmantation With Deep Convoluational Neural Networks,  ACM Multimedia 2015
+Yuhang Wang, Jing Liu, **Yong Li**, Hanqing Lu, [Semi- and Weakly-Supervised Segmantic Segmantation With Deep Convoluational Neural Networks](http://dl.acm.org/citation.cfm?id=2806322),  ACM Multimedia 2015, p1223-1226
 
-Yuhang Wang, Jing Liu, **Yong Li**, Hanqing Lu, Color Names Learning Using Convolutional Neural Networks,  ICIP 2015
+Yuhang Wang, Jing Liu, Jinqiao Wang, **Yong Li**, Hanqing Lu, [Color Names Learning Using Convolutional Neural Networks](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7350791&newsearch=true&queryText=Color%20Names%20Learning%20Using%20Convolutional%20Neural%20Networks),  ICIP 2015, p217-221
 
 **Yong Li**, Jing Liu, Hanqing Lu, Songde Ma, [Learning Robust Face Representation with Classwise Block-Diagonal Structure](http://ieeexplore.ieee.org/xpl/abstractKeywords.jsp?reload=true&arnumber=6918458&sortType%3Dasc_p_Sequence%26filter%3DAND(p_Publication_Number%3A10206)%26pageNumber%3D2%26rowsPerPage%3D75),  
 [Code](https://github.com/liyong3forever/RCBD), IEEE Trans. Inf. Forensics Security, 2014, p2051-2062  
@@ -29,7 +29,6 @@ Yuhang Wang, Jing Liu, **Yong Li**, Hanqing Lu, Color Names Learning Using Convo
 
 
 **Awards**  
-
 **First Prize** in Chinese Undergraduate Mathematical Contests in Modeling(**CUMCM**), Team Leader, 2009.  
 **"Microsoft young fellowship"** was honored (30 in total around the country), 2010  
 "National Encouragement Scholarship" was received, 2010  
@@ -38,4 +37,5 @@ Yuhang Wang, Jing Liu, **Yong Li**, Hanqing Lu, Color Names Learning Using Convo
  "The First-Class Scholarship" of PanDeng prize (6/500+), 2015   
  "Second Place" in the [ImageCLEF Annotation Task](http://imageclef.org/2015/annotation) to annotate and localize 500,000 web images with 251 concepts
 , [Work Notes](https://github.com/liyong3forever/liyong3forever.github.com/blob/source/source/iva_nlpr.pdf), Team Leader, 2015  
+**"First Prize"** in the Challenger Match of Alibaba Large-scale Image Search Challenge ([ALISC](http://alisc.aliyun.com/final)), Total Rank 5/800+, Team Leader, 2015.11
 

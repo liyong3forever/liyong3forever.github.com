@@ -8,9 +8,9 @@ footer: false
 ---
 **Yong Li**, Jing Liu, Yuhang Wang, Hanqing Lu, Songde Ma, [Weakly Supervised RBM for Semantic Segmentation](http://ijcai.org/papers15/Abstracts/IJCAI15-268.html), [ORAL](https://github.com/liyong3forever/liyong3forever.github.com/blob/master/WRBM-ORAL.pdf), [Poster](https://github.com/liyong3forever/liyong3forever.github.com/blob/master/WRBM-POSTER.pdf), IJCAI, 2015, p1888-1894 
 
-Yuhang Wang, Jing Liu, **Yong Li**, Hanqing Lu, Semi- and Weakly-Supervised Segmantic Segmantation With Deep Convoluational Neural Networks,  ACM Multimedia 2015
+Yuhang Wang, Jing Liu, **Yong Li**, Hanqing Lu, [Semi- and Weakly-Supervised Segmantic Segmantation With Deep Convoluational Neural Networks](http://dl.acm.org/citation.cfm?id=2806322),  ACM Multimedia 2015, p1223-1226
 
-Yuhang Wang, Jing Liu, **Yong Li**, Hanqing Lu, Color Names Learning Using Convolutional Neural Networks,  ICIP 2015
+Yuhang Wang, Jing Liu, Jinqiao Wang, **Yong Li**, Hanqing Lu, [Color Names Learning Using Convolutional Neural Networks](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7350791&newsearch=true&queryText=Color%20Names%20Learning%20Using%20Convolutional%20Neural%20Networks),  ICIP 2015, p217-221
 
 **Yong Li**, Jing Liu, Hanqing Lu, Songde Ma, [Learning Robust Face Representation with Classwise Block-Diagonal Structure](http://ieeexplore.ieee.org/xpl/abstractKeywords.jsp?reload=true&arnumber=6918458&sortType%3Dasc_p_Sequence%26filter%3DAND(p_Publication_Number%3A10206)%26pageNumber%3D2%26rowsPerPage%3D75),  
 [Code](https://github.com/liyong3forever/RCBD), IEEE Trans. Inf. Forensics Security, 2014, p2051-2062  
