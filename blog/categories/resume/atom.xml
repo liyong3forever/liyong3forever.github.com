@@ -4,7 +4,7 @@
   <title><![CDATA[Category: resume | Forever Lee]]></title>
   <link href="http://www.foreverlee.net/blog/categories/resume/atom.xml" rel="self"/>
   <link href="http://www.foreverlee.net/"/>
-  <updated>2015-08-01T17:53:17+08:00</updated>
+  <updated>2016-03-04T17:35:42+08:00</updated>
   <id>http://www.foreverlee.net/</id>
   <author>
     <name><![CDATA[Forever Lee]]></name>
@@ -18,15 +18,15 @@
     <link href="http://www.foreverlee.net/blog/20150602"/>
     <updated>2015-06-02T00:00:00+08:00</updated>
     <id>http://www.foreverlee.net/blog/personal-resume</id>
-    <content type="html"><![CDATA[<p>Yong Li is a 4-th year Ph.D Candidate advised by Pro. <a href="http://sourcedb.ia.cas.cn/en/iaexpert/200910/t20091012_2542915.html">Songde Ma</a> and Pro. <a href="http://www.nlpr.ia.ac.cn/iva/People_detail_luhanqing.html">Hanqing Lu</a> at national laboratory of pattern recognition (NLPR), Institute of Automation, Chinese Academy of Sciences.  He got his B.E. degree from the Huazhong University of Science and Technology. His research interest includes machine learning, computer vision, semantic segmentation, deep learning.  He also has good knowledge of mathematical modelling. He received the first prize in Chinese Undergraduate Mathematical Contest in Modelling (CUMCM) 2009. He was invited to the camp of Microsoft Young Fellow in 2010 and was a recipient of the Microsoft Young Fellowship.</p>
+    <content type="html"><![CDATA[<p>Yong Li is a 5-th year Ph.D Candidate advised by Pro. <a href="http://sourcedb.ia.cas.cn/en/iaexpert/200910/t20091012_2542915.html">Songde Ma</a> and Pro. <a href="http://www.nlpr.ia.ac.cn/iva/People_detail_luhanqing.html">Hanqing Lu</a> at national laboratory of pattern recognition (NLPR), Institute of Automation, Chinese Academy of Sciences.  He got his B.E. degree from the Huazhong University of Science and Technology. His research interest includes machine learning, computer vision, semantic segmentation, deep learning.  He also has good knowledge of mathematical modelling. He received the first prize in Chinese Undergraduate Mathematical Contest in Modelling (CUMCM) 2009. He was invited to the camp of Microsoft Young Fellow in 2010 and was a recipient of the Microsoft Young Fellowship.</p>
 
 <p><strong>Publications</strong>:  </p>
 
 <p><strong>Yong Li</strong>, Jing Liu, Yuhang Wang, Hanqing Lu, Songde Ma, <a href="http://ijcai.org/papers15/Abstracts/IJCAI15-268.html">Weakly Supervised RBM for Semantic Segmentation</a>, <a href="https://github.com/liyong3forever/liyong3forever.github.com/blob/master/WRBM-ORAL.pdf">ORAL</a>, <a href="https://github.com/liyong3forever/liyong3forever.github.com/blob/master/WRBM-POSTER.pdf">Poster</a>, IJCAI, 2015, p1888-1894 </p>
 
-<p>Yuhang Wang, Jing Liu, <strong>Yong Li</strong>, Hanqing Lu, Semi- and Weakly-Supervised Segmantic Segmantation With Deep Convoluational Neural Networks,  ACM Multimedia 2015</p>
+<p>Yuhang Wang, Jing Liu, <strong>Yong Li</strong>, Hanqing Lu, <a href="http://dl.acm.org/citation.cfm?id=2806322">Semi- and Weakly-Supervised Segmantic Segmantation With Deep Convoluational Neural Networks</a>,  ACM Multimedia 2015, p1223-1226</p>
 
-<p>Yuhang Wang, Jing Liu, <strong>Yong Li</strong>, Hanqing Lu, Color Names Learning Using Convolutional Neural Networks,  ICIP 2015</p>
+<p>Yuhang Wang, Jing Liu, Jinqiao Wang, <strong>Yong Li</strong>, Hanqing Lu, <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7350791&amp;newsearch=true&amp;queryText=Color%20Names%20Learning%20Using%20Convolutional%20Neural%20Networks">Color Names Learning Using Convolutional Neural Networks</a>,  ICIP 2015, p217-221</p>
 
 <p><strong>Yong Li</strong>, Jing Liu, Hanqing Lu, Songde Ma, <a href="http://ieeexplore.ieee.org/xpl/abstractKeywords.jsp?reload=true&amp;arnumber=6918458&amp;sortType%3Dasc_p_Sequence%26filter%3DAND(p_Publication_Number%3A10206)%26pageNumber%3D2%26rowsPerPage%3D75">Learning Robust Face Representation with Classwise Block-Diagonal Structure</a>,<br />
 <a href="https://github.com/liyong3forever/RCBD">Code</a>, IEEE Trans. Inf. Forensics Security, 2014, p2051-2062  </p>
@@ -38,16 +38,16 @@
 <p><strong>Yong Li</strong>, Jing Liu, Zechao Li, Yang Liu, Hanqing Lu, 
 <a href="http://dl.acm.org/citation.cfm?id=2502195">Object co-segmentation via discriminative low rank matrix recovery</a>, ACM Multimedia 2013, P749-752</p>
 
-<p><strong>Awards</strong>  </p>
-
-<p><strong>First Prize</strong> in Chinese Undergraduate Mathematical Contests in Modeling(<strong>CUMCM</strong>), Team Leader, 2009.<br />
+<p><strong>Awards</strong><br />
+<strong>First Prize</strong> in Chinese Undergraduate Mathematical Contests in Modeling(<strong>CUMCM</strong>), Team Leader, 2009.<br />
 <strong>“Microsoft young fellowship”</strong> was honored (30 in total around the country), 2010<br />
 “National Encouragement Scholarship” was received, 2010<br />
 “Merit Student” award was received (15%), 2012, 2014<br />
 “Excellent Student Leader” award was received (2%), 2012<br />
  “The First-Class Scholarship” of PanDeng prize (6/500+), 2015 <br />
  “Second Place” in the <a href="http://imageclef.org/2015/annotation">ImageCLEF Annotation Task</a> to annotate and localize 500,000 web images with 251 concepts
-, <a href="https://github.com/liyong3forever/liyong3forever.github.com/blob/source/source/iva_nlpr.pdf">Work Notes</a>, Team Leader, 2015  </p>
+, <a href="https://github.com/liyong3forever/liyong3forever.github.com/blob/source/source/iva_nlpr.pdf">Work Notes</a>, Team Leader, 2015<br />
+<strong>“First Prize”</strong> in the Challenger Match of Alibaba Large-scale Image Search Challenge (<a href="http://alisc.aliyun.com/final">ALISC</a>), Total Rank 5/800+, Team Leader, 2015.11</p>
 
 ]]></content>
   </entry>
