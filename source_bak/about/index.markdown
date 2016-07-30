@@ -12,11 +12,11 @@ footer: false
 **Born**:       1989, China  
 **Contact me**: [Weibo](http://weibo.com/liyong3forever) [Linkedin](https://cn.linkedin.com/in/foreverlee)   
 **Experiences**:  
-2011.09 -- 2016.07, PHD degree, NLPR, Institute of Automation, Chinese Academy of Sciences  
+2011.09 -- Now, 5-th Year PHD Candidate, NLPR, Institute of Automation, Chinese Academy of Sciences  
 2007.09 -- 2011.07, Bachelor, Electroics and Information Engineering, Huazhong University of Science and Technology  
 
 **Interrests**:  
-Machine Learning, Computer Vision, Computational advertising  
+Machine Learning, Computer Vision, Semantic Segmentation, Deep Learning, Matrix Factorization  
 
 **Awards**  
 "First Prize" in the Challenger Match of Alibaba Large-scale Image Search Challenge ([ALISC](http://alisc.aliyun.com/final)), Total Rank 5/800+, Team Leader,2015.11  
