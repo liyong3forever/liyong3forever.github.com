@@ -8,7 +8,7 @@ footer: false
 ---
 ##About Me
 **Name**:       Yong Li  
-**Email**:	liyong(at)nlpr.ia.ac.cn  
+**Email**:	liyongforevercas(at)163.com  
 **Born**:       1989, China  
 **Contact me**: [Weibo](http://weibo.com/liyong3forever) [Linkedin](https://cn.linkedin.com/in/foreverlee)   
 **Experiences**:  
