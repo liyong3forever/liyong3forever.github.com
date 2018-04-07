@@ -12,13 +12,17 @@ footer: false
 **Born**:       1989, China  
 **Contact me**: [Weibo](http://weibo.com/liyong3forever) [Linkedin](https://cn.linkedin.com/in/foreverlee)   
 **Experiences**:  
+2016.09 -- Now, Recommendation team, Business Growth BU, JD.com  
 2011.09 -- 2016.07, PHD degree, NLPR, Institute of Automation, Chinese Academy of Sciences  
+2015.05 -- 2015.08, Intern in Alimama, mainly working on modeling the time factor and anti-spam for CTR prediction.  
+2014.12 -- 2015.04, Intern in SenseTime, mainly realizing the real-time face detection system.   
 2007.09 -- 2011.07, Bachelor, Electroics and Information Engineering, Huazhong University of Science and Technology  
 
 **Interrests**:  
 Machine Learning, Computer Vision, Computational advertising  
 
 **Awards**  
+Winner of Scene Parsing in Places Challenge at [ICCV COCO Places Workshop](https://places-coco2017.github.io/), 2017  
 "First Prize" in the Challenger Match of Alibaba Large-scale Image Search Challenge ([ALISC](http://alisc.aliyun.com/final)), Total Rank 5/800+, Team Leader,2015.11  
 "Second Place" in the [ImageCLEF Annotation Task](http://imageclef.org/2015/annotation) to annotate and localize 500,000 web images with 251 concepts, Team Leader,2015      
 "The First-Class Scholarship" of PanDeng prize (6/500+), 2015     

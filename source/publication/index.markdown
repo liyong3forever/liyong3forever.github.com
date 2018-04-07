@@ -6,6 +6,9 @@ comments: false
 sharing: false
 footer: false
 ---
+[Collaborative Deconvolutional Neural Networks for Joint Depth Estimation and Semantic Segmentation](http://ieeexplore.ieee.org/document/8320527/) Jing Liu, Yuhang Wang,  **Yong Li**,  Jun Fu, Jiangyun Li, Hanqing Lu, IEEE Transactions on Neural Networks and Learning Systems(TNNLS) 2018  
+
+[Hierarchically Supervised Deconvolutional Network for Semantic Video Segmentation](https://www.sciencedirect.com/science/article/pii/S0031320316303077) Yuhang Wang, Jing Liu,  **Yong Li**,  Jun Fu, Min Xu, Hanqing Lu, Pattern Recognition 2017, p437-445  
 
 [Objectness-aware Semantic Segmentation](http://dl.acm.org/citation.cfm?id=2967232) Yuhang Wang, Jing Liu,  **Yong Li**,  Junjie Yan, Hanqing Lu, ACM Multimedia 2016, p307-311
 
